@@ -1,4 +1,4 @@
-spring: 
+spring:  I
   profiles:
    active:
    - dev
