@@ -4,7 +4,7 @@ spring:
    - dev
 ---
 server:
-  port: 3366
+  port: 3377
 spring:
   profiles: dev
   application:
